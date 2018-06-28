@@ -1,7 +1,8 @@
 <scheme name="Vim dark" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="2.4166667" />
   <option name="EDITOR_FONT_SIZE" value="28" />
-  <option name="EDITOR_LIGATURES" value="true" />
   <option name="EDITOR_FONT_NAME" value="Fira Code Retina" />
+  <option name="EDITOR_LIGATURES" value="true" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
     <option name="CARET_COLOR" value="bbbbbb" />
@@ -471,6 +472,9 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="HTML_CODE">
+      <value />
+    </option>
     <option name="HYPERLINK_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="287bde" />
@@ -511,6 +515,9 @@
         <option name="FOREGROUND" value="bbbbbb" />
       </value>
     </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value />
+    </option>
     <option name="LOG_ERROR_OUTPUT">
       <value>
         <option name="FOREGROUND" value="55ff55" />
@@ -530,6 +537,8 @@
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ff8647" />
+        <option name="BACKGROUND" value="6300ff" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="METHOD_DECLARATION_ATTRIBUTES">
