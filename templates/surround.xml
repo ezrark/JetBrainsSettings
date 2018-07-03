@@ -1,0 +1,9 @@
+<templateSet group="surround">
+  <template name="//" value="/*$SELECTION$*/" description="Suround with note" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="DART" value="true" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+</templateSet>
